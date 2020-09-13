@@ -11,7 +11,7 @@ This is a decentralized crowdfunding app. An entreprenuar can start a campaign t
 
 ## Demo
 
-[![Demo](demo.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo](demo.gif)](https://youtu.be/jAT2QtEEGUw)
 
 ## Available Scripts
 
