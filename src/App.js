@@ -4,8 +4,6 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
-import web3 from "./dependencies/web3";
-// import { contract } from "./dependencies/campaign";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import CampaignList from "./components/campaignList";
 import NewCampaign from "./components/newCampaign";
